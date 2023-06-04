@@ -62,6 +62,6 @@ To build the container to a registry (for example, [Docker Hub](https://hub.dock
     docker push <username>/aspnet
     ```
 
-5. The image should now be visible in your Docker Hub account
+5. The image should now be visible in your Docker Hub account:
 
 ![Screenshot from Docker Hub showing the image](./docker-hub.png)
