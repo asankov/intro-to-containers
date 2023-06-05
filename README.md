@@ -32,7 +32,7 @@ To build and run the application in this repo:
 
 ## Push the container to a registry
 
-To build the container to a registry (for example, [Docker Hub](https://hub.docker.com/)):
+To push the container to a registry (for example, [Docker Hub](https://hub.docker.com/)):
 
 1. Go to [Docker Hub](https://hub.docker.com/) and create an account.
 
